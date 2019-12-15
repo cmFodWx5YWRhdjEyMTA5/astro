@@ -1,0 +1,1 @@
+$(document).ready(function(){var adaptCarouselOption=[{"minWidth":800,"maxWidth":5000,"sliderCount":4},{"minWidth":0,"maxWidth":800,"sliderCount":1}];$("#articlescarsousel02").adaptCarousel(adaptCarouselOption);$(window).resize(function(){$("#articlescarsousel02").adaptCarousel(adaptCarouselOption);});});

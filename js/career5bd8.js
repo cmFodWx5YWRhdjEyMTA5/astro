@@ -1,0 +1,1 @@
+$(".scroll").click(function(event){var a=$(this).attr('name');$('html,body').animate({scrollTop:$(a).offset().top-50},500);});function showModal(){$("#astroyogistorymodal").modal("show");}
